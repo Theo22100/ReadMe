@@ -32,7 +32,7 @@
 
 <br><br>
 
-### 🌱 I'm currently learning
+<h2> 🌱 I'm currently learning</h2>
 
 - Vuejs
 - React  
