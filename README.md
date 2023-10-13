@@ -1,5 +1,5 @@
 # ReadMe
-## 🤝- PRESENTATION
+### 🤝- PRESENTATION
 
 ![banner](https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png)
 
@@ -8,7 +8,7 @@
 - 👔 3ème année en Bachelor Web chez My Digital School, en recherche d'alternance pour 2023-2024 !
 <br><br>
 
-## 📱 - ME CONTACTER
+### 📱 - ME CONTACTER
 
 <br>
 
@@ -18,7 +18,7 @@
 <br>
 <br>
 
-## 💻 - LANGAGES
+### 💻 - LANGAGES
 
 <br>
 
@@ -32,14 +32,12 @@
 
 <br><br>
 
-## 🌱 I'm currently learning
+### 🌱 I'm currently learning
 
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
+- Vuejs
+- React  
 
-## 🚀 - STATS GITHUB
+### 🚀 - STATS GITHUB
 
 <br>
 
