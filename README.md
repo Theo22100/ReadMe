@@ -1,9 +1,17 @@
 # ReadMe
+<<<<<<< HEAD
 PRESENTATION
+=======
+PRESENTATION 
+
+![banner](https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png)
+>>>>>>> 92ec52e66a2f461d404f851d97a8643a2630f5e8
 
 - 👋 Bonjour, je suis @Theo22100.
 - 📌 Bienvenue dans mon petit univers !
-- 👔 Etudiant en 3ème année en Bachelor Web chez My Digital School, en recherche d'alternance pour 2023-2024 !
+- 👔 3ème année en Bachelor Web chez My Digital School, en recherche d'alternance pour 2023-2024 !
+
+ME CONTACTER
 
 LANGAGES
 
