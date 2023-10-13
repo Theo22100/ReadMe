@@ -7,8 +7,9 @@
 - 📌 Bienvenue dans mon petit univers !
 - 👔 3ème année en Bachelor Web chez My Digital School, en recherche d'alternance pour 2023-2024 !
 
-**ME CONTACTER**
+**🤝 - ME CONTACTER**
 
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/theo22100/README/main/images/linkedin.svg" alt="Theo Guerin | LinkedIn" width="21px"/></a>
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
