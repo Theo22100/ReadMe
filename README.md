@@ -6,8 +6,9 @@
     <img align="middle" src="https://raw.githubusercontent.com/theo22100/README/main/images/avatar-round.png" alt="Theo Guerin | Avatar" width="120px"/>
     </td><td>
     <ul>
-    <li>👋 Bonjour, je suis @Theo22100.</li>
+    <li>👋 Bonjour, je suis @Theo22100</li>
     <li>📌 Bienvenue dans mon petit univers !</li>
+    <li>💻 Je suis un Développeur Web FullStack</li>
     <li>👔 3ème année en Bachelor Web chez My Digital School</li>
     <li>📝 En recherche d'alternance pour 2023-2024 !</li>
     </ul>
@@ -36,7 +37,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 
-<h3> 🌱 I'm currently learning</h3>
+<h3> 🌱 - Je travaille actuellement sur :</h3>
 
 - Vuejs
 - React  
