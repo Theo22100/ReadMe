@@ -11,8 +11,8 @@
 **📱 - ME CONTACTER**
 
 <br>
-<a href="https://www.linkedin.com/in/théo-guérin-b20630192/"><img align="left" src="https://raw.githubusercontent.com/theo22100/README/main/images/linkedin.svg" alt="Theo Guerin | LinkedIn" width="21px"/></a>
-<a href="mailto:Theo.Guerin35000@gmail.com"><img align="left" src="https://raw.githubusercontent.com/theo22100/README/main/images/Gmail.svg" alt="Theo Guerin | GMail" width="21px"/></a>
+<a href="https://www.linkedin.com/in/théo-guérin-b20630192/"><img align="left" src="https://raw.githubusercontent.com/theo22100/README/main/images/linkedin.svg" alt="Theo Guerin | LinkedIn" width="40px"/></a>
+<a href="mailto:Theo.Guerin35000@gmail.com"><img align="left" src="https://raw.githubusercontent.com/theo22100/README/main/images/Gmail.svg" alt="Theo Guerin | GMail" width="40px"/></a>
 <br>
 <br>
 
