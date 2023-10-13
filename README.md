@@ -8,7 +8,8 @@
     <ul>
     <li>👋 Bonjour, je suis @Theo22100.</li>
     <li>📌 Bienvenue dans mon petit univers !</li>
-    <li>👔 3ème année en Bachelor Web chez My Digital School, en recherche d'alternance pour 2023-2024 !</li>
+    <li>👔 3ème année en Bachelor Web chez My Digital School</li>
+    <li>📝 En recherche d'alternance pour 2023-2024 !</li>
     </ul>
     </td></tr>
 </table>
