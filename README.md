@@ -9,9 +9,8 @@
 
 **🤝 - ME CONTACTER**
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/theo22100/README/main/images/linkedin.svg" alt="Theo Guerin | LinkedIn" width="21px"/></a>
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="https://www.linkedin.com/in/théo-guérin-b20630192/"><img align="left" src="https://raw.githubusercontent.com/theo22100/README/main/images/linkedin.svg" alt="Theo Guerin | LinkedIn" width="21px"/></a>
+<a href="mailto:Theo.Guerin35000@gmail.com"><img align="left" src="https://raw.githubusercontent.com/theo22100/README/main/images/gmail.svg" alt="Theo Guerin | GMail" width="21px"/></a>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theo22100&layout=donut&theme=dark) ![Les Stats GitHub de Theo22100](https://github-readme-stats.vercel.app/api?username=Theo22100&show_icons=true&theme=dark) 
