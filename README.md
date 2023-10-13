@@ -1,5 +1,5 @@
 # ReadMe
-### 🤝- PRESENTATION
+<h3>🤝- PRESENTATION</h3>
 
 ![banner](https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png)
 
@@ -8,7 +8,7 @@
 - 👔 3ème année en Bachelor Web chez My Digital School, en recherche d'alternance pour 2023-2024 !
 <br><br>
 
-### 📱 - ME CONTACTER
+<h3>📱 - ME CONTACTER</h3>
 
 <br>
 
@@ -18,7 +18,7 @@
 <br>
 <br>
 
-### 💻 - LANGAGES
+<h3>💻 - LANGAGES</h3>
 
 <br>
 
@@ -37,7 +37,7 @@
 - Vuejs
 - React  
 
-### 🚀 - STATS GITHUB
+<h3>🚀 - STATS GITHUB</h3>
 
 <br>
 
