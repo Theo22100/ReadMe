@@ -2,6 +2,7 @@
 <h3>🤝- PRESENTATION</h3>
 
 <img align="middle" src="https://raw.githubusercontent.com/theo22100/README/main/images/avatar.jpg" alt="Theo Guerin | Avatar" width="120px"/>
+
 - 👋 Bonjour, je suis @Theo22100.
 - 📌 Bienvenue dans mon petit univers !
 - 👔 3ème année en Bachelor Web chez My Digital School, en recherche d'alternance pour 2023-2024 !
