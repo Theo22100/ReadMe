@@ -7,13 +7,17 @@
 - 📌 Bienvenue dans mon petit univers !
 - 👔 3ème année en Bachelor Web chez My Digital School, en recherche d'alternance pour 2023-2024 !
 <br><br>
+
 **📱 - ME CONTACTER**
+
 <br>
 <a href="https://www.linkedin.com/in/théo-guérin-b20630192/"><img align="left" src="https://raw.githubusercontent.com/theo22100/README/main/images/linkedin.svg" alt="Theo Guerin | LinkedIn" width="21px"/></a>
 <a href="mailto:Theo.Guerin35000@gmail.com"><img align="left" src="https://raw.githubusercontent.com/theo22100/README/main/images/Gmail.svg" alt="Theo Guerin | GMail" width="21px"/></a>
 <br>
 <br>
+
 **💻 - LANGAGES**
+
 <br>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
