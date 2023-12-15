@@ -40,7 +40,8 @@
 <h3> 🌱 - Je travaille actuellement sur :</h3>
 
 - Vuejs
-- React  
+- NodeJs
+- Flutter 
 
 <h3>🚀 - STATS GITHUB</h3>
 
