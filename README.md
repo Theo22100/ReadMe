@@ -8,9 +8,9 @@
     <ul>
     <li>👋 Bonjour, je suis @Theo22100</li>
     <li>📌 Bienvenue dans mon petit univers !</li>
-    <li>💻 Je suis un Développeur Web FullStack</li>
-    <li>👔 3ème année en Bachelor Web chez My Digital School</li>
-    <li>📝 En recherche d'alternance pour 2023-2024 !</li>
+    <li>👨‍💻 Je suis un Développeur Web FullStack</li>
+    <li>👔 1er année en MBA développeur Full-Stack</li>
+    <li>💻  <a href="https://theo-guerin.fr" style={{ textDecoration: 'none', color: 'inherit' }} target="_blank" rel="noopener noreferrer">theo-guerin.fr</a></li>
     </ul>
     </td></tr>
 </table>
