@@ -3,7 +3,7 @@
 <table>
     <tr>
     <td>
-    <img align="middle" src="https://raw.githubusercontent.com/theo22100/README/main/images/avatar-round.png" alt="Theo Guerin | Avatar" width="120px"/>
+    <img align="middle" src="https://raw.githubusercontent.com/theo22100/README/main/images/avatar.svg" alt="Theo Guerin | Avatar" width="120px"/>
     </td><td>
     <ul>
     <li>👋 Bonjour, je suis @Theo22100</li>
